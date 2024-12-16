@@ -1,0 +1,13 @@
+body {
+  background-color: #dee2e6;
+}
+
+input {
+  flex: none !important;
+}
+.input-group > .form-control.stock-input {
+  width: 5rem;
+}
+.input-group > .form-control.like-input {
+  width: 4rem;
+}
